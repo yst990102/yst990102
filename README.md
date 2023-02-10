@@ -1,7 +1,7 @@
 ### Hi I'm yst990102 👋
 A UNSW Computer Engineering Student who graduated in Dec, 2022. Currently looking for a full-time job or internship.
 
-<table style="boder-width:0">
+<table frame=void>
     <tr>
         <td>
             <img style="max-width: 300px" src="https://github-readme-stats.vercel.app/api?username=yst990102" alt="yst990102's GitHub stats"/>
